@@ -4,3 +4,4 @@ Praktek Program Komputer Python 2021
 
 ### 1. Latihan 1
 
+ik
